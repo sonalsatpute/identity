@@ -485,3 +485,4 @@ FodyWeavers.xsd
 
 .idea/
 **/.idea/
+*/app.db

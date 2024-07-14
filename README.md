@@ -1,8 +1,7 @@
 # identity
 
 
-
-### create database and tables relevant to the identity server
+### create a database and tables relevant to the identity server
 
 ```shell
 cd .\IdentityService
